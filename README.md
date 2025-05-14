@@ -14,6 +14,12 @@ Bem-vindo ao repositório do **Checkpoint 2 de Desenvolvimento Web**! Aqui estã
 
 ---
 
+## 🔗 Links Úteis
+
+* **Repositório GitHub:** [https://github.com/TLean07/CP2WEB](https://github.com/TLean07/CP2WEB)
+
+---
+
 ## ⏱️ 1. Contador de Tempo de Sessão com Feedback
 
 **Descrição:**  
