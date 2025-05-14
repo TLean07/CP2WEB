@@ -24,9 +24,6 @@ Inicia a contagem do tempo assim que a página é carregada. O tempo é armazena
 - 🔁 Persistência de sessão com `sessionStorage`.
 - ⚠️ Exibe alerta sutil após 10 segundos para incentivar interação.
 
-**Exemplo de mensagem:**  
-> Você está há um tempo na página. Continue interagindo!
-
 ---
 
 ## 🔍 2. Enigma da Sequência Misteriosa
@@ -74,7 +71,7 @@ Adicione cores por nome (em inglês) a uma lista estilizada automaticamente com 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/checkpoint2-webdev.git
+   git clone https://github.com/TLean07/CP2WEB.git
    ```
 2. Abra o arquivo `index.html` de cada projeto no navegador.
 
@@ -85,21 +82,3 @@ Adicione cores por nome (em inglês) a uma lista estilizada automaticamente com 
 - HTML5
 - CSS3
 - JavaScript Vanilla
-
----
-
-## 👤 Autor
-
-Desenvolvido por **Leandro Afonso Silva Santos Júnior**  
-Aluno da **FIAP School — Engenharia de Software**  
-Email: **kauai.rosa06@gmail.com**
-
----
-
-## 📄 Licença
-
-Distribuído sob a licença MIT.
-
----
-
-Feito com dedicação e ☕
