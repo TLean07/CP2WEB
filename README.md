@@ -79,7 +79,7 @@ Adicione cores por nome (em inglês) a uma lista estilizada automaticamente com 
    ```bash
    git clone https://github.com/TLean07/CP2WEB.git
    ```
-2. Abra o arquivo `index.html` de cada projeto no navegador.
+2. Abra o arquivo `index.html` de cada projeto no navegador usando o Live Server.
 
 ---
 
