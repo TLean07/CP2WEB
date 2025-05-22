@@ -87,4 +87,4 @@ Adicione cores por nome (em inglês) a uma lista estilizada automaticamente com 
 
 - HTML5
 - CSS3
-- JavaScript Vanilla
+- JavaScript 
